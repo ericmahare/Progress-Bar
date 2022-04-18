@@ -11,7 +11,7 @@
 - Linter
 
 ## Live Demo
-[View website](https://ericmahare.github.io/awesome-books/)
+[View website](https://progress-bar-demo.netlify.app/)
 
 
 ## Getting Started
@@ -42,6 +42,10 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgements
+
+Thanks to Brad Traversy for original design
 
 ## 📝 License
 
